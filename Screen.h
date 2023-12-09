@@ -6,7 +6,7 @@
 #include <mmsystem.h>
 #include <string>
 
-// by pirozhochek
+// by xndRs7
 
 using namespace std;
 
